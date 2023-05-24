@@ -10,9 +10,9 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student has: a name (first an last name)
  * each student can: say their name (getName)
  * 
- * @author aqsa May 7, 2018
+ * @author aqsa May 7, 201845
  */
-public class Student1 
+public class Student
 {
     private String name;
 
@@ -29,6 +29,6 @@ public class Student1
     public void setName(String givenName) {
         name = givenName;
     }
-    
+
     
 }
