@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * @author dancye May 7, 2018
  */
-public class Student 
+public class Student1 
 {
     private String name;
 
